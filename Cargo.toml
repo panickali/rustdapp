@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/rustdapp_backend"
+]
+resolver = "2"
